@@ -11,6 +11,7 @@ The dataset is saved to .npy. If you want the original fabric images, you can co
 
 
 
+
 2. Fabric Automatic Design
 
 
