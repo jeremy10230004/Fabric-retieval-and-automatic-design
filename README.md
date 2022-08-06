@@ -10,6 +10,7 @@ It is not original version, because original version will take too much time. Th
 The dataset is saved to .npy. If you want the original fabric images, you can contact me XD.
 
 
+---------------------------------------------------------------------
 
 
 2. Fabric Automatic Design
