@@ -19,4 +19,10 @@ The dataset is saved to .npy. If you want the original fabric images, you can co
 I cannot simplify this model, because it will not work well enough.
 
 
+the dataset of Fabric Automatic Design is here 
+
+
+https://www.kaggle.com/datasets/kkhlu2/fabric-images-data
+
+
 The label of dataset is the categories of fabric patterns.
