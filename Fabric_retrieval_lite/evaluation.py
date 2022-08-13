@@ -18,8 +18,8 @@ def evaluation(model, x_test, y_test, top=3, Simi="cos"):
     y_test_o = np.load('y_data.npy')
 
     # ---------------------------------------
-    features = model.predict(x_test)
-    features_o = model.predict(x_test_o)
+    features = model.predict([x_test, x_test, x_test])
+    features_o = model.predict([x_test_o, x_test_o, x_test_o])
 
     pred_l = []
     for id, f in enumerate(features):
